@@ -1,0 +1,27 @@
+    Fizzo-cars
+
+Colors:
+White clear  #FEFEFE
+
+White dark  #FOFOFO
+
+Blue   #204AF8
+
+dark blue   #050926
+
+
+Fonts:
+Alata
+font-family: 'Alata', sans-serif;
+Font logo 
+    font-family: 'Poppins', sans-serif;
+
+Font fina: font-family: 'Montserrat', sans-serif;
+
+Tools links:
+
+
+
+Repository link:
+
+
